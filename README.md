@@ -1,4 +1,4 @@
-# Analyzing-User-Behavior
+# Customer Acquisition Channels
 ### Determining the number of bots on the site
 ### Tasks:
 #### 1.Estimate the number of bots that visit our site and their share of all traffic.
